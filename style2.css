@@ -1,0 +1,11 @@
+.filmes, .paragrafo1, .paragrafo2, .lista{
+    color: purple;
+}
+
+.paragrafo1, .paragrafo2, .lista{
+    font-size: 90px;
+}
+
+#titulo{
+    text-align: center;
+}
